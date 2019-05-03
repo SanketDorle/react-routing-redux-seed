@@ -1,0 +1,1 @@
+export {connectAction} from './counter.action';
