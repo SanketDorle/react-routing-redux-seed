@@ -1,6 +1,6 @@
 # react-routing-redux-seed
 
-This is a seed project to build a React web application using React, reac-routing and react-redux.
+This is a seed project to build a React web application using React, react-routing and react-redux.
 
 ## Quick Start
 
